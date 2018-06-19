@@ -67,3 +67,6 @@ venv.bak/
 
 # vscode
 .vscode/
+
+# sqlite
+*.db
